@@ -122,7 +122,7 @@ The cleaned and processed data has been used to create an interactive **Power BI
 
 This project was made possible through the efforts of:
 
-- **Chaitanya Vinay Sure**: Contributed to data cleaning, preprocessing, and analysis.
+- **Harshith Doppalapudi**: Contributed to data cleaning, preprocessing, and analysis.
 
 If you find any issues with the project or have suggestions for improvement, feel free to open an issue or submit a pull request.
 
